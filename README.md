@@ -1,4 +1,8 @@
-### Hi there 👋
+### Software Engineer by day... coding enthusiast by night! ⚡
+
+I'm Romain, passionate about programming, dogs, games, dogs and 3D. And sometimes cosplay and guitar.
+
+I'm mostly interested in modern C++, C#, Python, GLSL/HLSL and JavaScript/TypeScript. And dogs too.
 
 <!--
 **vinders/vinders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
