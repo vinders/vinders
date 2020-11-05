@@ -1,4 +1,4 @@
-### Software Engineer by day... coding enthusiast by night! ⚡
+### Software Engineer by day... Coding enthusiast by night! ⚡
 
 Hi, I'm Romain. I'm passionate about programming, dogs, games, dogs and 3D. And sometimes cosplay and guitar.
 
